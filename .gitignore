@@ -13,3 +13,5 @@ stage
 
 # Ignore packaged plugins and language packs
 *.phar
+/nbproject/private/
+nbproject/*
